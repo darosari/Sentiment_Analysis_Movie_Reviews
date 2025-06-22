@@ -1,7 +1,7 @@
 # Sentiment Analysis on Movie Reviews
 
 ## Overview
-This project applies Natural Language Processing (NLP) techniques to analyze and classify the sentiment of movie reviews. Using the [Kaggle Sentiment Analysis Dataset](https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data), we developed multiple classification models to determine whether a given review expresses a **negative**, **somewhat negative**, **neutral**, **somewhat positive**, or **positive** sentiment.
+This project applies Natural Language Processing (NLP) techniques to analyze and classify the sentiment of movie reviews. Using the [Kaggle Sentiment Analysis Dataset](https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data), I developed multiple classification models to determine whether a given review expresses a **negative**, **somewhat negative**, **neutral**, **somewhat positive**, or **positive** sentiment.
 
 ### Goals
 - Preprocess raw text data for NLP modeling
